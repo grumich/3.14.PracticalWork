@@ -29,3 +29,6 @@ License [MIT](./License.md)
 
 ---
 GIT logo by Jason Long. http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.ru)
+
+
+![cat](/IMG/Professortocat_v2-300x300.png)
